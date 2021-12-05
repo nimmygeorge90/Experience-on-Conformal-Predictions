@@ -2,7 +2,7 @@
 
 Submitted for the Degree of Master of Science in MSc Data Science and Analytics
 
-Submitted to Department of Computer Science Royal Holloway University of London
+Submitted to Department of Computer Science, Royal Holloway University of London
 
 # Abstract
 
